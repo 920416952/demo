@@ -1,0 +1,10 @@
+D:\s4.net\第一阶段作业\第一次作业\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\s4.net\第一阶段作业\第一次作业\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\s4.net\第一阶段作业\第一次作业\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\s4.net\第一阶段作业\第一次作业\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\s4.net\第一阶段作业\第一次作业\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\s4.net\第一阶段作业\第一次作业\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\s4.net\第一阶段作业\第一次作业\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\s4.net\第一阶段作业\第一次作业\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\s4.net\第一阶段作业\第一次作业\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\s4.net\第一阶段作业\第一次作业\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
